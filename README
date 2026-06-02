@@ -1,0 +1,9 @@
+to install:
+download and cd into the repo 
+
+```
+cargo install --path
+
+```
+
+then can delete
